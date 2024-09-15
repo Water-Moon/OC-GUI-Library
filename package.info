@@ -1,0 +1,1 @@
+{version="1.0.0",name="OC GUI Lib",info="（未提供信息）",paths={"/lib"},files={"/lib/stringutils.lua","/lib/widgetBase.lua","/lib/widgetButton.lua","/lib/widgetImage.lua","/lib/widgetLabel.lua","/lib/widgetProgressBar.lua","/lib/widgetTextBox.lua","/lib/widgetToggleButton.lua","/lib/window.lua","/lib/windowEventHandler.lua","/lib/windowUtil.lua"}}
